@@ -36,10 +36,10 @@
         "version": "1.4.0"
     },
     {
-        "filename": "balm-neoforge-1.21.1-21.0.59.jar",
+        "filename": "balm-neoforge-1.21.1-21.0.63.jar",
         "name": "Balm",
         "url": "https://modrinth.com/mod/MBAkmtvl",
-        "version": "21.0.59"
+        "version": "21.0.63"
     },
     {
         "filename": "better-compatability-checker-neoforge-21.1.8.jar",
@@ -52,6 +52,12 @@
         "name": "BoccHUD",
         "url": "https://modrinth.com/mod/zfPoD7Tm",
         "version": "0.4.1+mc1.21.1"
+    },
+    {
+        "filename": "neoforge-carpet-1.21.1-1.0.8+v251027.jar",
+        "name": "Carpet: NeoForged",
+        "url": "https://modrinth.com/mod/XqqOkvZz",
+        "version": "1.4.147+v1.0.8-251027"
     },
     {
         "filename": "chat_heads-0.15.2-neoforge-1.21.jar",
@@ -84,10 +90,10 @@
         "version": "NONE"
     },
     {
-        "filename": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.113.jar",
+        "filename": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.115.jar",
         "name": "Concurrent Chunk Management Engine",
         "url": "https://modrinth.com/mod/COlSi5iR",
-        "version": "0.4.0-alpha.0.113+1.21.1"
+        "version": "0.4.0-alpha.0.115+1.21.1"
     },
     {
         "filename": "Controlling-neoforge-1.21.1-19.0.5.jar",
@@ -156,6 +162,12 @@
         "version": "1.21.1-1.3.14"
     },
     {
+        "filename": "electroenergetics-1.21.1-1.1.1.jar",
+        "name": "Create Electro Energetics",
+        "url": "https://modrinth.com/mod/qYJdIoAx",
+        "version": "1.21.1-1.1.1"
+    },
+    {
         "filename": "createendertransmission-2.1.1-1.21.1.jar",
         "name": "Create Ender Transmission",
         "url": "https://modrinth.com/mod/wtW8g4TG",
@@ -174,7 +186,7 @@
         "version": "1.21.1-6.0.10-2"
     },
     {
-        "filename": "create_mechanical_extruder-1.21.1-2.2.1-6.0.10.jar",
+        "filename": "create_mechanical_extruder-1.21.1-2.2.2-6.0.10.jar",
         "name": "Create Mechanical Extruder",
         "url": "https://modrinth.com/mod/hGAlcCDJ",
         "version": "1.21.1-2.2.1-6.0.10"
@@ -300,10 +312,10 @@
         "version": "2.6.0"
     },
     {
-        "filename": "createframed-1.21.1-1.7.3.jar",
+        "filename": "createframed-1.21.1-1.8.2.jar",
         "name": "Create: Framed",
         "url": "https://modrinth.com/mod/15fFZ3f4",
-        "version": "1.7.3"
+        "version": "1.8.2"
     },
     {
         "filename": "garnished-april-foods-26-neoforged.jar",
@@ -324,7 +336,7 @@
         "version": "1.1.3"
     },
     {
-        "filename": "create_mechanical_spawner-1.21.1-1.3.1-6.0.10.jar",
+        "filename": "create_mechanical_spawner-1.21.1-1.3.2-6.0.10.jar",
         "name": "Create: Mechanical spawner",
         "url": "https://modrinth.com/mod/T1hmeGi9",
         "version": "1.3.1-6.0.10"
@@ -364,6 +376,12 @@
         "name": "Create: Pattern Schematics",
         "url": "https://modrinth.com/mod/cpqKG67r",
         "version": "2.0.10"
+    },
+    {
+        "filename": "powergrid-mc1.21.1-0.5.5.1.jar",
+        "name": "Create: Power Grid",
+        "url": "https://modrinth.com/mod/eWiBLJ9R",
+        "version": "0.5.5.1"
     },
     {
         "filename": "createrandomizefilters-1.0.7.jar",
@@ -420,10 +438,10 @@
         "version": "3.0.0-NeoForge-1.21.1"
     },
     {
-        "filename": "createschematicchecker-1.21.26-6.0-neoforge-1.21.1.jar",
+        "filename": "createschematicchecker-1.21.27-6.0-neoforge-1.21.1.jar",
         "name": "Create:Schematic Checker",
         "url": "https://modrinth.com/mod/ULzrAD1U",
-        "version": "1.21.26-6.0"
+        "version": "1.21.27-6.0"
     },
     {
         "filename": "createbetterfps-1.21.1-1.1.4.jar",
@@ -546,10 +564,10 @@
         "version": "7.0.3"
     },
     {
-        "filename": "forgematica-0.4.1+mc1.21.1.jar",
+        "filename": "forgematica-0.4.2+mc1.21.1.jar",
         "name": "Forgematica",
         "url": "https://modrinth.com/mod/dCKRaeBC",
-        "version": "0.4.1+mc1.21.1"
+        "version": "0.4.2+mc1.21.1"
     },
     {
         "filename": "FramedBlocks-10.6.1.jar",
@@ -642,16 +660,16 @@
         "version": "1.21-2.3.2"
     },
     {
-        "filename": "justenoughfilters-3.1.4+neoforge-1.21.1.jar",
+        "filename": "justenoughfilters-3.1.5+neoforge-1.21.1.jar",
         "name": "Just Enough Filters (JEF)",
         "url": "https://modrinth.com/mod/Ka9cnIsF",
-        "version": "3.1.4"
+        "version": "3.1.5"
     },
     {
-        "filename": "jei-1.21.1-neoforge-19.27.0.344.jar",
+        "filename": "jei-1.21.1-neoforge-19.38.0.366.jar",
         "name": "Just Enough Items",
         "url": "https://modrinth.com/mod/u6dRKJwZ",
-        "version": "19.27.0.344"
+        "version": "19.38.0.366"
     },
     {
         "filename": "JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
@@ -666,10 +684,10 @@
         "version": "1.6.0.17"
     },
     {
-        "filename": "Kiwi-1.21.1-NeoForge-15.8.4.jar",
+        "filename": "Kiwi-1.21.1-NeoForge-15.8.7.jar",
         "name": "Kiwi Library",
         "url": "https://modrinth.com/mod/ufdDoWPd",
-        "version": "15.8.4+neoforge"
+        "version": "15.8.7+neoforge"
     },
     {
         "filename": "kotlinforforge-5.12.0-all.jar",
@@ -720,16 +738,16 @@
         "version": "0.4.3+mc1.21.1"
     },
     {
-        "filename": "mechanicals-1.21.1-1.1.4.jar",
+        "filename": "mechanicals-1.21.1-1.1.6.jar",
         "name": "Mechanicals Lib",
         "url": "https://modrinth.com/mod/ProvjTA7",
-        "version": "1.1.4"
+        "version": "1.1.6"
     },
     {
-        "filename": "modernfix-neoforge-5.27.14+mc1.21.1.jar",
+        "filename": "modernfix-neoforge-5.27.15+mc1.21.1.jar",
         "name": "ModernFix",
         "url": "https://modrinth.com/mod/nmDcB62a",
-        "version": "5.27.14+mc1.21.1"
+        "version": "5.27.15+mc1.21.1"
     },
     {
         "filename": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
@@ -768,10 +786,10 @@
         "version": "21.1.52"
     },
     {
-        "filename": "create_ratatouille-1.21.1-1.3.9-2.jar",
+        "filename": "create_ratatouille-1.21.1-1.4.0.jar",
         "name": "Ratatouille",
         "url": "https://modrinth.com/mod/XM0ifg8q",
-        "version": "1.3.9-2"
+        "version": "1.4.0"
     },
     {
         "filename": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
@@ -846,28 +864,28 @@
         "version": "0.6.0+mc1.21.1"
     },
     {
-        "filename": "sophisticatedbackpacks-1.21.1-3.25.65.1955.jar",
+        "filename": "sophisticatedbackpacks-1.21.1-3.25.70.1985.jar",
         "name": "Sophisticated Backpacks",
         "url": "https://modrinth.com/mod/TyCTlI4b",
-        "version": "3.25.65"
+        "version": "3.25.70"
     },
     {
-        "filename": "sophisticatedbackpackscreateintegration-1.21.1-0.1.7.119.jar",
+        "filename": "sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
         "name": "Sophisticated Backpacks Create Integration",
         "url": "https://modrinth.com/mod/s85zLEDe",
-        "version": "0.1.7"
+        "version": "0.1.8"
     },
     {
-        "filename": "sophisticatedcore-1.21.1-1.4.62.2079.jar",
+        "filename": "sophisticatedcore-1.21.1-1.4.73.2151.jar",
         "name": "Sophisticated Core",
         "url": "https://modrinth.com/mod/nmoqTijg",
-        "version": "1.4.62"
+        "version": "1.4.73"
     },
     {
-        "filename": "sophisticatedstorage-1.21.1-1.5.65.1907.jar",
+        "filename": "sophisticatedstorage-1.21.1-1.5.76.1972.jar",
         "name": "Sophisticated Storage",
         "url": "https://modrinth.com/mod/hMlaZH8f",
-        "version": "1.5.65"
+        "version": "1.5.76"
     },
     {
         "filename": "still-life-0.1.1.jar",
@@ -912,10 +930,10 @@
         "version": "0.4.3+mc1.21.1"
     },
     {
-        "filename": "waystones-neoforge-1.21.1-21.1.34.jar",
+        "filename": "waystones-neoforge-1.21.1-21.1.36.jar",
         "name": "Waystones",
         "url": "https://modrinth.com/mod/LOpKHB2A",
-        "version": "21.1.34"
+        "version": "21.1.36"
     },
     {
         "filename": "worldedit-mod-7.3.8.jar",
@@ -940,12 +958,6 @@
         "name": "create: things and misc",
         "url": "https://modrinth.com/mod/uWrs8XlB",
         "version": "4.1.1"
-    },
-    {
-        "filename": "e4mc-neoforge-6.2.0.jar.disabled",
-        "name": "e4mc",
-        "url": "https://modrinth.com/mod/qANg5Jrr",
-        "version": "6.2.0"
     },
     {
         "filename": "libIPN-neoforge-1.21.1-6.6.3.jar",
