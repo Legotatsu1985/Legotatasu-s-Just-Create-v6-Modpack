@@ -30,10 +30,10 @@
         "version": "4.0.6"
     },
     {
-        "filename": "azimuth-1.4.0.jar",
+        "filename": "azimuth-1.4.1.jar",
         "name": "Azimuth",
         "url": "https://modrinth.com/mod/RpH8tmT1",
-        "version": "1.4.0"
+        "version": "1.4.1"
     },
     {
         "filename": "balm-neoforge-1.21.1-21.0.63.jar",
@@ -126,10 +126,10 @@
         "version": "1.2.1"
     },
     {
-        "filename": "create_aquatic_ambitions-1.21.1-2.0.2.jar",
+        "filename": "create_aquatic_ambitions-1.21.1-2.0.3.jar",
         "name": "Create Aquatic Ambitions",
         "url": "https://modrinth.com/mod/9SyaPzp7",
-        "version": "2.0.2"
+        "version": "2.0.3"
     },
     {
         "filename": "bits_n_bobs-0.0.44.jar",
@@ -384,6 +384,12 @@
         "version": "0.5.5.1"
     },
     {
+        "filename": "create_power_loader-2.0.5-mc1.21.1.jar",
+        "name": "Create: Power Loader",
+        "url": "https://modrinth.com/mod/wPQ6GgFE",
+        "version": "2.0.5-mc1.21.1"
+    },
+    {
         "filename": "createrandomizefilters-1.0.7.jar",
         "name": "Create: Randomize Filters",
         "url": "https://modrinth.com/mod/Y3R5jiC8",
@@ -486,6 +492,12 @@
         "version": "2.2b"
     },
     {
+        "filename": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+        "name": "Dynamic FPS",
+        "url": "https://modrinth.com/mod/LQ3K71Q1",
+        "version": "3.11.4"
+    },
+    {
         "filename": "emi-1.1.24+1.21.1+neoforge.jar",
         "name": "EMI",
         "url": "https://modrinth.com/mod/fRiHVvU7",
@@ -540,10 +552,10 @@
         "version": "1.10.5"
     },
     {
-        "filename": "ftb-library-neoforge-2101.1.32.jar",
+        "filename": "ftb-library-neoforge-2101.1.33.jar",
         "name": "FTB Library",
         "url": "https://www.curseforge.com/projects/404465",
-        "version": "2101.1.32"
+        "version": "2101.1.33"
     },
     {
         "filename": "ftb-ultimine-neoforge-2101.1.15.jar",
@@ -636,7 +648,7 @@
         "version": "1.2.1"
     },
     {
-        "filename": "journeymap-neoforge-1.21.1-6.0.0.jar",
+        "filename": "journeymap-neoforge-1.21.1-6.0.1.jar",
         "name": "Journeymap-NeoForge",
         "url": "https://modrinth.com/mod/lfHFW1mp",
         "version": "not a fabric mod"
@@ -666,10 +678,10 @@
         "version": "3.1.5"
     },
     {
-        "filename": "jei-1.21.1-neoforge-19.38.0.366.jar",
+        "filename": "jei-1.21.1-neoforge-19.39.0.368.jar",
         "name": "Just Enough Items",
         "url": "https://modrinth.com/mod/u6dRKJwZ",
-        "version": "19.38.0.366"
+        "version": "19.39.0.368"
     },
     {
         "filename": "JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
@@ -696,10 +708,10 @@
         "version": "uhJhCT7X"
     },
     {
-        "filename": "KotlinLangForge-2.12.1-k2.4.0-3.0+neoforge.jar",
+        "filename": "KotlinLangForge-2.12.2-k2.4.10-3.0+neoforge.jar",
         "name": "KotlinLangForge",
         "url": "https://modrinth.com/mod/1vrSzlao",
-        "version": "2.12.1-k2.4.0-3.0+neoforge"
+        "version": "2.12.2-k2.4.10-3.0+neoforge"
     },
     {
         "filename": "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
@@ -726,10 +738,10 @@
         "version": "0.15.4+mc1.21.1"
     },
     {
-        "filename": "lithosphere-1.7.jar",
+        "filename": "lithosphere-1.8.1.jar",
         "name": "Lithosphere",
         "url": "https://modrinth.com/mod/iv9jp2k9",
-        "version": "1.7"
+        "version": "1.8.1"
     },
     {
         "filename": "mafglib-0.4.3+mc1.21.1.jar",
@@ -744,10 +756,10 @@
         "version": "1.1.6"
     },
     {
-        "filename": "modernfix-neoforge-5.27.15+mc1.21.1.jar",
+        "filename": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
         "name": "ModernFix",
         "url": "https://modrinth.com/mod/nmDcB62a",
-        "version": "5.27.15+mc1.21.1"
+        "version": "5.27.20+mc1.21.1"
     },
     {
         "filename": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
@@ -840,10 +852,10 @@
         "version": "5.1.9+1.21.1"
     },
     {
-        "filename": "SimpleRPC-4.1.2.jar",
+        "filename": "SimpleRPC-4.1.3.jar",
         "name": "Simple RPC",
         "url": "https://modrinth.com/mod/ObXSoyrn",
-        "version": "4.1.1+release.0"
+        "version": "4.1.3"
     },
     {
         "filename": "voicechat-neoforge-1.21.1-2.6.20.jar",
@@ -864,10 +876,10 @@
         "version": "0.6.0+mc1.21.1"
     },
     {
-        "filename": "sophisticatedbackpacks-1.21.1-3.25.70.1985.jar",
+        "filename": "sophisticatedbackpacks-1.21.1-3.25.71.1997.jar",
         "name": "Sophisticated Backpacks",
         "url": "https://modrinth.com/mod/TyCTlI4b",
-        "version": "3.25.70"
+        "version": "3.25.71"
     },
     {
         "filename": "sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
@@ -876,16 +888,16 @@
         "version": "0.1.8"
     },
     {
-        "filename": "sophisticatedcore-1.21.1-1.4.73.2151.jar",
+        "filename": "sophisticatedcore-1.21.1-1.4.76.2170.jar",
         "name": "Sophisticated Core",
         "url": "https://modrinth.com/mod/nmoqTijg",
-        "version": "1.4.73"
+        "version": "1.4.76"
     },
     {
-        "filename": "sophisticatedstorage-1.21.1-1.5.76.1972.jar",
+        "filename": "sophisticatedstorage-1.21.1-1.5.79.1991.jar",
         "name": "Sophisticated Storage",
         "url": "https://modrinth.com/mod/hMlaZH8f",
-        "version": "1.5.76"
+        "version": "1.5.79"
     },
     {
         "filename": "still-life-0.1.1.jar",
@@ -900,10 +912,10 @@
         "version": "13.11.4"
     },
     {
-        "filename": "struts-1.2.5.jar",
+        "filename": "struts-1.2.7.jar",
         "name": "Strut Your Stuff",
         "url": "https://modrinth.com/mod/sHO3MhQx",
-        "version": "1.2.5"
+        "version": "1.2.7"
     },
     {
         "filename": "trmt-0.5.1-1.21.1-neoforge.jar",
@@ -930,10 +942,10 @@
         "version": "0.4.3+mc1.21.1"
     },
     {
-        "filename": "waystones-neoforge-1.21.1-21.1.36.jar",
+        "filename": "waystones-neoforge-1.21.1-21.1.37.jar",
         "name": "Waystones",
         "url": "https://modrinth.com/mod/LOpKHB2A",
-        "version": "21.1.36"
+        "version": "21.1.37"
     },
     {
         "filename": "worldedit-mod-7.3.8.jar",
