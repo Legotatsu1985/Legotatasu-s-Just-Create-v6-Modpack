@@ -30,10 +30,10 @@
         "version": "4.0.6"
     },
     {
-        "filename": "azimuth-1.4.7.jar",
+        "filename": "azimuth-1.4.8.jar",
         "name": "Azimuth",
         "url": "https://modrinth.com/mod/RpH8tmT1",
-        "version": "1.4.7"
+        "version": "1.4.8"
     },
     {
         "filename": "balm-neoforge-1.21.1-21.0.65.jar",
@@ -120,10 +120,16 @@
         "version": "6.0.10"
     },
     {
-        "filename": "create-aeronautics-bundled-1.21.1-1.3.1.jar",
+        "filename": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
         "name": "Create Aeronautics",
         "url": "https://modrinth.com/mod/oWaK0Q19",
-        "version": "1.3.1"
+        "version": "1.3.2"
+    },
+    {
+        "filename": "create_aeronautics_transmission_linkage-0.2.7.jar",
+        "name": "Create Aeronautics: Transmission & Linkage",
+        "url": "https://modrinth.com/mod/Y1dq5ioE",
+        "version": "0.2.7"
     },
     {
         "filename": "create_aquatic_ambitions-1.21.1-2.0.4.jar",
@@ -240,10 +246,10 @@
         "version": "1.0.2C"
     },
     {
-        "filename": "create_bb-1.0.7-1.21.1-Neoforge.jar",
+        "filename": "create_bb-1.0.8-1.21.1.jar",
         "name": "Create: Blocks & Bogies",
         "url": "https://modrinth.com/mod/j4ARnQwY",
-        "version": "1.0.7"
+        "version": "1.0.8"
     },
     {
         "filename": "create-central-kitchen-2.6.0.jar",
@@ -258,16 +264,16 @@
         "version": "0.1.5"
     },
     {
-        "filename": "create_connected-1.3.2-mc1.21.1.jar",
+        "filename": "create_connected-1.3.3-mc1.21.1.jar",
         "name": "Create: Connected",
         "url": "https://modrinth.com/mod/Vg5TIO6d",
-        "version": "1.3.2-mc1.21.1"
+        "version": "1.3.3-mc1.21.1"
     },
     {
-        "filename": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+        "filename": "copycats-3.0.8+mc.1.21.1-neoforge.jar",
         "name": "Create: Copycats+",
         "url": "https://modrinth.com/mod/UT2M39wf",
-        "version": "3.0.4+mc.1.21.1-neoforge"
+        "version": "3.0.8+mc.1.21.1-neoforge"
     },
     {
         "filename": "create_deepfried-forge-1.21.1-0.1.3C.jar",
@@ -294,16 +300,16 @@
         "version": "1.1.0"
     },
     {
-        "filename": "create-enchantment-industry-2.5.2.jar",
+        "filename": "create-enchantment-industry-2.5.3b.jar",
         "name": "Create: Enchantment Industry",
         "url": "https://modrinth.com/mod/JWGBpFUP",
-        "version": "2.5.2"
+        "version": "2.5.3b"
     },
     {
-        "filename": "escalated-1.3.1-mc.1.21.1.jar",
+        "filename": "escalated-1.3.2+mc.1.21.1.jar",
         "name": "Create: Escalated",
         "url": "https://modrinth.com/mod/LyOBYG8Q",
-        "version": "1.3.1"
+        "version": "1.3.2"
     },
     {
         "filename": "extra_gauges-2.1.2.jar",
@@ -366,10 +372,10 @@
         "version": "1.2.0+mc1.21.1"
     },
     {
-        "filename": "CreateNumismatics-1.0.20+neoforge-mc1.21.1.jar",
+        "filename": "CreateNumismatics-1.1.0+neoforge-mc1.21.1.jar",
         "name": "Create: Numismatics",
         "url": "https://modrinth.com/mod/Jdbbtt0i",
-        "version": "1.0.20+neoforge-mc1.21.1"
+        "version": "1.1.0+neoforge-mc1.21.1"
     },
     {
         "filename": "create_oxidized-0.1.3.jar",
@@ -384,10 +390,10 @@
         "version": "2.0.10"
     },
     {
-        "filename": "powergrid-mc1.21.1-0.6.0.1.jar",
+        "filename": "powergrid-mc1.21.1-0.6.1.jar",
         "name": "Create: Power Grid",
         "url": "https://modrinth.com/mod/eWiBLJ9R",
-        "version": "0.6.0.1"
+        "version": "0.6.1"
     },
     {
         "filename": "create_power_loader-2.0.5-mc1.21.1.jar",
@@ -420,7 +426,13 @@
         "version": "0.3.0-beta.2+neoforge-mc1.21.1"
     },
     {
-        "filename": "tfmg-1.2.0.jar",
+        "filename": "tfmg-1.21.1-1.2.3a-community.jar",
+        "name": "Create: The Factory Must Grow",
+        "url": "https://www.curseforge.com/projects/1653026",
+        "version": "1.2.3a-community"
+    },
+    {
+        "filename": "tfmg-1.2.0.jar.disabled",
         "name": "Create: The Factory Must Grow",
         "url": "https://modrinth.com/mod/USgVjXsk",
         "version": "1.2.0"
@@ -444,16 +456,16 @@
         "version": "0.3.2"
     },
     {
-        "filename": "create_waystones_recipes-3.0.0-NeoForge-1.21.1.jar",
+        "filename": "create_waystones_recipes-3.0.1.b.jar",
         "name": "Create: Waystones Recipes",
         "url": "https://modrinth.com/mod/wQpKGqNJ",
-        "version": "3.0.0-NeoForge-1.21.1"
+        "version": "3.0.1.b"
     },
     {
-        "filename": "createschematicchecker-2.27.43-6.0-neoforge-1.21.1.jar",
+        "filename": "createschematicchecker-2.27.45-6.0-neoforge-1.21.1.jar",
         "name": "Create:Schematic Checker",
         "url": "https://modrinth.com/mod/ULzrAD1U",
-        "version": "2.27.43-6.0"
+        "version": "2.27.45-6.0"
     },
     {
         "filename": "createbetterfps-1.21.1-1.1.4.jar",
@@ -570,10 +582,10 @@
         "version": "2101.1.15"
     },
     {
-        "filename": "FarmersDelight-1.21.1-1.3.3.jar",
+        "filename": "FarmersDelight-1.21.1-1.3.4.jar",
         "name": "Farmer's Delight",
         "url": "https://modrinth.com/mod/R2OftAxM",
-        "version": "1.3.3"
+        "version": "1.3.4"
     },
     {
         "filename": "ferritecore-7.0.3-neoforge.jar",
@@ -642,19 +654,19 @@
         "version": "1.0.0"
     },
     {
-        "filename": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+        "filename": "JadeAddons-1.21.1-NeoForge-6.1.1.jar",
         "name": "Jade Addons",
         "url": "https://modrinth.com/mod/xuDOzCLy",
-        "version": "6.1.0+neoforge"
+        "version": "6.1.1+neoforge"
     },
     {
-        "filename": "sablejade-1.2.1.jar",
+        "filename": "sablejade-1.3.0.jar",
         "name": "Jade Sable Compat",
         "url": "https://modrinth.com/mod/jCrJ4iGH",
-        "version": "1.2.1"
+        "version": "1.3.0"
     },
     {
-        "filename": "journeymap-neoforge-1.21.1-6.0.5.jar",
+        "filename": "journeymap-neoforge-1.21.1-6.0.7.jar",
         "name": "Journeymap-NeoForge",
         "url": "https://modrinth.com/mod/lfHFW1mp",
         "version": "not a fabric mod"
@@ -684,10 +696,10 @@
         "version": "3.1.5"
     },
     {
-        "filename": "jei-1.21.1-neoforge-19.44.0.402.jar",
+        "filename": "jei-1.21.1-neoforge-19.51.0.417.jar",
         "name": "Just Enough Items",
         "url": "https://modrinth.com/mod/u6dRKJwZ",
-        "version": "19.44.0.402"
+        "version": "19.51.0.417"
     },
     {
         "filename": "JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
@@ -714,10 +726,10 @@
         "version": "uhJhCT7X"
     },
     {
-        "filename": "KotlinLangForge-2.12.2-k2.4.10-3.0+neoforge.jar",
+        "filename": "KotlinLangForge-2.13.0-k2.4.10-3.0+neoforge.jar",
         "name": "KotlinLangForge",
         "url": "https://modrinth.com/mod/1vrSzlao",
-        "version": "2.12.2-k2.4.10-3.0+neoforge"
+        "version": "2.13.0-k2.4.10-3.0+neoforge"
     },
     {
         "filename": "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
@@ -726,10 +738,10 @@
         "version": "0.2.28.1-1.21.1"
     },
     {
-        "filename": "kubejs-neoforge-2101.7.2-build.368.jar",
+        "filename": "kubejs-neoforge-2101.7.2-build.374.jar",
         "name": "KubeJS",
         "url": "https://modrinth.com/mod/umyGl7zF",
-        "version": "2101.7.2-build.368"
+        "version": "2101.7.2-build.374"
     },
     {
         "filename": "kubejs-create-neoforge-2101.3.1-build.18.jar",
@@ -744,10 +756,10 @@
         "version": "0.15.4+mc1.21.1"
     },
     {
-        "filename": "lithosphere-1.8.1.jar",
+        "filename": "lithosphere-1.8.2.jar",
         "name": "Lithosphere",
         "url": "https://modrinth.com/mod/iv9jp2k9",
-        "version": "1.8.1"
+        "version": "1.8.2"
     },
     {
         "filename": "mafglib-0.4.3+mc1.21.1.jar",
@@ -762,10 +774,10 @@
         "version": "1.1.6"
     },
     {
-        "filename": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
+        "filename": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
         "name": "ModernFix",
         "url": "https://modrinth.com/mod/nmDcB62a",
-        "version": "5.27.20+mc1.21.1"
+        "version": "5.27.24+mc1.21.1"
     },
     {
         "filename": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
@@ -798,10 +810,10 @@
         "version": "2.0.4+1.21.1"
     },
     {
-        "filename": "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+        "filename": "PuzzlesLib-v21.1.56-mc1.21.1-NeoForge.jar",
         "name": "Puzzles Lib",
         "url": "https://modrinth.com/mod/QAGBst4M",
-        "version": "21.1.52"
+        "version": "21.1.56"
     },
     {
         "filename": "create_ratatouille-1.21.1-1.4.0.jar",
@@ -870,10 +882,10 @@
         "version": "1.21.1-2.6.22"
     },
     {
-        "filename": "sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar",
+        "filename": "sodium-neoforge-0.8.13+mc1.21.1.jar",
         "name": "Sodium",
         "url": "https://modrinth.com/mod/AANobbMI",
-        "version": "0.8.13-beta.2+mc1.21.1"
+        "version": "0.8.13+mc1.21.1"
     },
     {
         "filename": "sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
@@ -882,10 +894,10 @@
         "version": "0.9.3+mc1.21.1"
     },
     {
-        "filename": "sophisticatedbackpacks-1.21.1-3.25.77.2086.jar",
+        "filename": "sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
         "name": "Sophisticated Backpacks",
         "url": "https://modrinth.com/mod/TyCTlI4b",
-        "version": "3.25.77"
+        "version": "3.25.78"
     },
     {
         "filename": "sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
@@ -894,16 +906,16 @@
         "version": "0.1.8"
     },
     {
-        "filename": "sophisticatedcore-1.21.1-1.4.87.2270.jar",
+        "filename": "sophisticatedcore-1.21.1-1.4.90.2299.jar",
         "name": "Sophisticated Core",
         "url": "https://modrinth.com/mod/nmoqTijg",
-        "version": "1.4.87"
+        "version": "1.4.90"
     },
     {
-        "filename": "sophisticatedstorage-1.21.1-1.5.87.2089.jar",
+        "filename": "sophisticatedstorage-1.21.1-1.5.91.2127.jar",
         "name": "Sophisticated Storage",
         "url": "https://modrinth.com/mod/hMlaZH8f",
-        "version": "1.5.87"
+        "version": "1.5.91"
     },
     {
         "filename": "still-life-0.1.1.jar",
@@ -930,10 +942,10 @@
         "version": "0.5.1-1.21.1-neoforge"
     },
     {
-        "filename": "toms_storage-1.21-2.4.1.jar",
+        "filename": "toms_storage-1.21-2.4.2.jar",
         "name": "Tom's Simple Storage Mod",
         "url": "https://modrinth.com/mod/XZNI4Cpy",
-        "version": "2.4.1"
+        "version": "2.4.2"
     },
     {
         "filename": "trashslot-neoforge-1.21.1-21.1.11.jar",
@@ -948,10 +960,10 @@
         "version": "0.4.3+mc1.21.1"
     },
     {
-        "filename": "waystones-neoforge-1.21.1-21.1.41.jar",
+        "filename": "waystones-neoforge-1.21.1-21.1.42.jar",
         "name": "Waystones",
         "url": "https://modrinth.com/mod/LOpKHB2A",
-        "version": "21.1.41"
+        "version": "21.1.42"
     },
     {
         "filename": "worldedit-mod-7.3.8.jar",
