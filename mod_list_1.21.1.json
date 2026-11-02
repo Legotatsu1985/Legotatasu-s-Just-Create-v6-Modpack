@@ -132,10 +132,10 @@
         "version": "1.0.2"
     },
     {
-        "filename": "create_aeronautics_transmission_linkage-0.2.8.jar",
+        "filename": "create_aeronautics_transmission_linkage-0.2.9.jar",
         "name": "Create Aeronautics: Transmission & Linkage",
         "url": "https://modrinth.com/mod/Y1dq5ioE",
-        "version": "0.2.8"
+        "version": "0.2.9"
     },
     {
         "filename": "create_aquatic_ambitions-1.21.1-2.0.4.jar",
@@ -444,16 +444,16 @@
         "version": "0.3.0-beta.2+neoforge-mc1.21.1"
     },
     {
-        "filename": "tfmg-1.21.1-1.3.2a-community.jar",
-        "name": "Create: The Factory Must Grow",
-        "url": "https://www.curseforge.com/projects/1653026",
-        "version": "1.3.2a-community"
-    },
-    {
         "filename": "tfmg-1.2.0.jar.disabled",
         "name": "Create: The Factory Must Grow",
         "url": "https://modrinth.com/mod/USgVjXsk",
         "version": "1.2.0"
+    },
+    {
+        "filename": "tfmg-1.21.1-1.3.2a-community.jar",
+        "name": "Create: The Factory Must Grow",
+        "url": "https://www.curseforge.com/projects/1653026",
+        "version": "1.3.2a-community"
     },
     {
         "filename": "createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
@@ -708,10 +708,10 @@
         "version": "3.1.5"
     },
     {
-        "filename": "jei-1.21.1-neoforge-19.70.0.461.jar",
+        "filename": "jei-1.21.1-neoforge-19.70.0.469.jar",
         "name": "Just Enough Items",
         "url": "https://modrinth.com/mod/u6dRKJwZ",
-        "version": "19.70.0.461"
+        "version": "19.70.0.469"
     },
     {
         "filename": "JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
@@ -720,10 +720,10 @@
         "version": "4.0.5"
     },
     {
-        "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar",
+        "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.60.jar",
         "name": "Just Enough Resources",
         "url": "https://modrinth.com/mod/uEfK2CXF",
-        "version": "1.6.0.57"
+        "version": "1.6.0.60"
     },
     {
         "filename": "Kiwi-1.21.1-NeoForge-15.8.7.jar",
@@ -738,10 +738,10 @@
         "version": "uhJhCT7X"
     },
     {
-        "filename": "KotlinLangForge-2.16.0-k2.4.21-3.0+neoforge.jar",
+        "filename": "KotlinLangForge-2.17.0-k2.4.21-3.0+neoforge.jar",
         "name": "KotlinLangForge",
         "url": "https://modrinth.com/mod/1vrSzlao",
-        "version": "2.16.0-k2.4.21-3.0+neoforge"
+        "version": "2.17.0-k2.4.21-3.0+neoforge"
     },
     {
         "filename": "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
@@ -750,10 +750,10 @@
         "version": "0.2.28.1-1.21.1"
     },
     {
-        "filename": "kubejs-neoforge-2101.7.2-build.377.jar",
+        "filename": "kubejs-neoforge-2101.7.2-build.381.jar",
         "name": "KubeJS",
         "url": "https://modrinth.com/mod/umyGl7zF",
-        "version": "2101.7.2-build.377"
+        "version": "2101.7.2-build.381"
     },
     {
         "filename": "kubejs-create-neoforge-2101.3.1-build.18.jar",
@@ -774,10 +774,10 @@
         "version": "1.8.2"
     },
     {
-        "filename": "ldlib2-neoforge-1.21.1-2.2.44-all.jar",
+        "filename": "ldlib2-neoforge-1.21.1-2.2.45-all.jar",
         "name": "LowDragLib2",
         "url": "https://modrinth.com/mod/B1CBVXHX",
-        "version": "2.2.44"
+        "version": "2.2.45"
     },
     {
         "filename": "mafglib-0.4.3+mc1.21.1.jar",
@@ -796,6 +796,12 @@
         "name": "ModernFix",
         "url": "https://modrinth.com/mod/nmDcB62a",
         "version": "5.27.27+mc1.21.1"
+    },
+    {
+        "filename": "morejs-neoforge-1.21.1-0.16.0.jar",
+        "name": "MoreJS",
+        "url": "https://modrinth.com/mod/mo64mR1W",
+        "version": "1.21.1-0.16.0"
     },
     {
         "filename": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
@@ -924,10 +930,10 @@
         "version": "0.9.5+mc1.21.1"
     },
     {
-        "filename": "sophisticatedbackpacks-1.21.1-3.26.17.2232.jar",
+        "filename": "sophisticatedbackpacks-1.21.1-3.26.19.2243.jar",
         "name": "Sophisticated Backpacks",
         "url": "https://modrinth.com/mod/TyCTlI4b",
-        "version": "3.26.17"
+        "version": "3.26.19"
     },
     {
         "filename": "sophisticatedbackpackscreateintegration-1.21.1-0.2.3.194.jar",
@@ -936,16 +942,16 @@
         "version": "0.2.3"
     },
     {
-        "filename": "sophisticatedcore-1.21.1-1.5.19.2434.jar",
+        "filename": "sophisticatedcore-1.21.1-1.5.23.2446.jar",
         "name": "Sophisticated Core",
         "url": "https://modrinth.com/mod/nmoqTijg",
-        "version": "1.5.19"
+        "version": "1.5.23"
     },
     {
-        "filename": "sophisticatedstorage-1.21.1-1.6.10.2206.jar",
+        "filename": "sophisticatedstorage-1.21.1-1.6.13.2216.jar",
         "name": "Sophisticated Storage",
         "url": "https://modrinth.com/mod/hMlaZH8f",
-        "version": "1.6.10"
+        "version": "1.6.13"
     },
     {
         "filename": "still-life-0.1.1.jar.disabled",
