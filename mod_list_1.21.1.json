@@ -36,10 +36,10 @@
         "version": "1.4.10"
     },
     {
-        "filename": "balm-neoforge-1.21.1-21.0.66.jar",
+        "filename": "balm-neoforge-1.21.1-21.0.67.jar",
         "name": "Balm",
         "url": "https://modrinth.com/mod/MBAkmtvl",
-        "version": "21.0.66"
+        "version": "21.0.67"
     },
     {
         "filename": "better-compatability-checker-neoforge-21.1.8.jar",
@@ -52,6 +52,36 @@
         "name": "BoccHUD",
         "url": "https://modrinth.com/mod/zfPoD7Tm",
         "version": "0.4.1+mc1.21.1"
+    },
+    {
+        "filename": "ccgraphics-1.21.1-forge-0.2.1.jar",
+        "name": "CC: Graphics",
+        "url": "https://modrinth.com/mod/lMJdP3PH",
+        "version": "0.2.1"
+    },
+    {
+        "filename": "cc_sable-neoforge-1.3.4.jar",
+        "name": "CC: Sable",
+        "url": "https://modrinth.com/mod/OPNBxiZD",
+        "version": "1.3.4"
+    },
+    {
+        "filename": "ccterminals-1.21.1-forge-0.1.1.jar",
+        "name": "CC: Terminals",
+        "url": "https://modrinth.com/mod/mbjglPPW",
+        "version": "0.1.1"
+    },
+    {
+        "filename": "cc-tweaked-1.21.1-forge-1.121.0.jar",
+        "name": "CC: Tweaked",
+        "url": "https://modrinth.com/mod/gu7yAYhd",
+        "version": "1.121.0"
+    },
+    {
+        "filename": "cccbridge-mc1.21.1-v1.7.3-neoforge.jar",
+        "name": "CC:C Bridge",
+        "url": "https://modrinth.com/mod/fXt291FO",
+        "version": "1.7.3"
     },
     {
         "filename": "neoforge-carpet-1.21.1-1.0.8+v251027.jar",
@@ -192,10 +222,10 @@
         "version": "2.1.1-1.21.1"
     },
     {
-        "filename": "gadgets-and-gizmos-bundled-2.0.0-Pre-Release-5.jar",
+        "filename": "gadgets-and-gizmos-bundled-2.0.3.jar",
         "name": "Create Gadgets & Gizmos Bundled",
         "url": "https://modrinth.com/mod/Sza3GgEL",
-        "version": "2.0.0-Pre-Release-5"
+        "version": "2.0.3"
     },
     {
         "filename": "create_jetpack-forge-5.2.1.jar",
@@ -204,10 +234,10 @@
         "version": "5.2.1"
     },
     {
-        "filename": "createlowheated-neoforge-1.21.1-6.0.10-2.jar",
+        "filename": "createlowheated-neoforge-1.21.1-6.0.10-4.jar",
         "name": "Create Low-Heated",
         "url": "https://modrinth.com/mod/hd0gHVlC",
-        "version": "1.21.1-6.0.10-2"
+        "version": "1.21.1-6.0.10-4"
     },
     {
         "filename": "create_mechanical_extruder-1.21.1-2.2.2-6.0.10.jar",
@@ -294,10 +324,10 @@
         "version": "1.3.3-mc1.21.1"
     },
     {
-        "filename": "copycats-3.0.9+mc.1.21.1-neoforge.jar",
+        "filename": "copycats-3.0.11+mc.1.21.1-neoforge.jar",
         "name": "Create: Copycats+",
         "url": "https://modrinth.com/mod/UT2M39wf",
-        "version": "3.0.9+mc.1.21.1-neoforge"
+        "version": "3.0.11+mc.1.21.1-neoforge"
     },
     {
         "filename": "create_deepfried+1.21.1-0.1.4.jar",
@@ -444,16 +474,16 @@
         "version": "0.3.0-beta.2+neoforge-mc1.21.1"
     },
     {
+        "filename": "tfmg-1.21.1-1.3.3a-community.jar",
+        "name": "Create: The Factory Must Grow",
+        "url": "https://www.curseforge.com/projects/1653026",
+        "version": "1.3.3a-community"
+    },
+    {
         "filename": "tfmg-1.2.0.jar.disabled",
         "name": "Create: The Factory Must Grow",
         "url": "https://modrinth.com/mod/USgVjXsk",
         "version": "1.2.0"
-    },
-    {
-        "filename": "tfmg-1.21.1-1.3.2a-community.jar",
-        "name": "Create: The Factory Must Grow",
-        "url": "https://www.curseforge.com/projects/1653026",
-        "version": "1.3.2a-community"
     },
     {
         "filename": "createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
@@ -546,10 +576,10 @@
         "version": "0.1.2+1.21+neoforge"
     },
     {
-        "filename": "emi_loot-0.7.9+1.21+neoforge.jar",
+        "filename": "emi_loot-0.7.10+1.21+neoforge.jar",
         "name": "EMI Loot",
         "url": "https://modrinth.com/mod/qbbO7Jns",
-        "version": "0.7.9+1.21+neoforge"
+        "version": "0.7.10+1.21+neoforge"
     },
     {
         "filename": "emi_ores-1.3+1.21.1+neoforge.jar",
@@ -720,10 +750,10 @@
         "version": "4.0.5"
     },
     {
-        "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.60.jar",
+        "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.66.jar",
         "name": "Just Enough Resources",
         "url": "https://modrinth.com/mod/uEfK2CXF",
-        "version": "1.6.0.60"
+        "version": "1.6.0.66"
     },
     {
         "filename": "Kiwi-1.21.1-NeoForge-15.8.7.jar",
@@ -738,10 +768,10 @@
         "version": "uhJhCT7X"
     },
     {
-        "filename": "KotlinLangForge-2.17.0-k2.4.21-3.0+neoforge.jar",
+        "filename": "KotlinLangForge-2.18.0-k2.4.21-3.0+neoforge.jar",
         "name": "KotlinLangForge",
         "url": "https://modrinth.com/mod/1vrSzlao",
-        "version": "2.17.0-k2.4.21-3.0+neoforge"
+        "version": "2.18.0-k2.4.21-3.0+neoforge"
     },
     {
         "filename": "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
@@ -774,10 +804,10 @@
         "version": "1.8.2"
     },
     {
-        "filename": "ldlib2-neoforge-1.21.1-2.2.45-all.jar",
+        "filename": "ldlib2-neoforge-1.21.1-2.2.46.a-all.jar",
         "name": "LowDragLib2",
         "url": "https://modrinth.com/mod/B1CBVXHX",
-        "version": "2.2.45"
+        "version": "2.2.46.a"
     },
     {
         "filename": "mafglib-0.4.3+mc1.21.1.jar",
@@ -930,10 +960,10 @@
         "version": "0.9.5+mc1.21.1"
     },
     {
-        "filename": "sophisticatedbackpacks-1.21.1-3.26.19.2243.jar",
+        "filename": "sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
         "name": "Sophisticated Backpacks",
         "url": "https://modrinth.com/mod/TyCTlI4b",
-        "version": "3.26.19"
+        "version": "3.26.21"
     },
     {
         "filename": "sophisticatedbackpackscreateintegration-1.21.1-0.2.3.194.jar",
@@ -942,16 +972,16 @@
         "version": "0.2.3"
     },
     {
-        "filename": "sophisticatedcore-1.21.1-1.5.23.2446.jar",
+        "filename": "sophisticatedcore-1.21.1-1.5.33.2470.jar",
         "name": "Sophisticated Core",
         "url": "https://modrinth.com/mod/nmoqTijg",
-        "version": "1.5.23"
+        "version": "1.5.33"
     },
     {
-        "filename": "sophisticatedstorage-1.21.1-1.6.13.2216.jar",
+        "filename": "sophisticatedstorage-1.21.1-1.6.17.2224.jar",
         "name": "Sophisticated Storage",
         "url": "https://modrinth.com/mod/hMlaZH8f",
-        "version": "1.6.13"
+        "version": "1.6.17"
     },
     {
         "filename": "still-life-0.1.1.jar.disabled",
